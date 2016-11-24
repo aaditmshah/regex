@@ -5,6 +5,9 @@
     "keywords": ["regex", "regexp", "regular", "expression", "pattern", "definition", "composition", "subexpression", "combination"],
     "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
     "main": "lib/regex.js",
+    "scripts": {
+        "test": "node tests/regex.js"
+    },
     "maintainers": [{
         "name": "Aadit M Shah",
         "email": "aaditmshah@fastmail.fm",
